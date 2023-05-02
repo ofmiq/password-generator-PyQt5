@@ -1,2 +1,2 @@
-# password-generator-PyQt5
+# Password Generator
 A simple password generator built with PyQt5
