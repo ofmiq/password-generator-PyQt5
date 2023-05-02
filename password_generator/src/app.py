@@ -45,7 +45,7 @@ class PasswordGenerator(QMainWindow):
 
         self.set_entropy()
         self.set_strength()
-            
+
     def get_char_num(self) -> int:
         num = 0
         for btn in buttons.CHARACTERS_NUMBER.items():
