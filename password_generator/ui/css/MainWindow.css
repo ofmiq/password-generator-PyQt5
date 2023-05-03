@@ -11,10 +11,8 @@ QPushButton {
     border-radius: 5px;
 }
 
-QPushButton#btn_lower,
-#btn_upper,
-#btn_digits,
-#btn_special {
+QPushButton#btn_lower, #btn_upper,
+#btn_digits, #btn_special {
     padding: 10px;
 }
 
